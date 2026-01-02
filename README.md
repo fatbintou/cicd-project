@@ -503,7 +503,7 @@ docker inspect <container_id>
 
 ### 🛠 Configuration Spécifique par Environnement
 
-**Development (.env.development)** :
+**Development (.env.development)*** :
 ```bash
 DEBUG=True
 DJANGO_SECRET_KEY=dev-key-not-secure
